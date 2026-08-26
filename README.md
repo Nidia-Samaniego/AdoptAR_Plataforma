@@ -1,0 +1,1 @@
+# AdoptAR_Plataforma
