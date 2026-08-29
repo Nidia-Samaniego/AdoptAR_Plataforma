@@ -32,7 +32,8 @@ El repositorio está organizado de forma limpia y modular siguiendo los estánda
 ## 👥 Integrantes del Equipo
 
 *   **Nidia Samaniego** 
-*   **Ignacio Roveres** 
+*   **Ignacio Roveres**
+*   **Mauro Ponce**
 
 
 ---
